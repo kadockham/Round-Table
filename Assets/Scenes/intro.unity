@@ -162,8 +162,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 2af34420544ccc24c8d4af312d1536c0, type: 3}
+    m_FontSize: 27
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -174,7 +174,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: This is the first sentence
+  m_Text: "The year is 537 AD. The mighty King Arthur ruler of Camelot hasn\u2019t
+    had any trouble within and out of the city ever since he became king of Camelot.
+    King Arthur became king with the power of the most powerful sword known to mankind
+    Excalibur."
 --- !u!222 &32688365
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -341,8 +344,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 2af34420544ccc24c8d4af312d1536c0, type: 3}
+    m_FontSize: 27
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -353,9 +356,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'This is the second sentence
-
-'
+  m_Text: 'Mordred son of King Arthur known for being skillful with any blade and
+    brutal in battle. He realizes that his father has gotten too soft at the throne
+    and it''s time for a change. The only way to become king is to defeat the current
+    king. '
 --- !u!222 &1042695444
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -423,8 +427,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 2af34420544ccc24c8d4af312d1536c0, type: 3}
+    m_FontSize: 27
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -435,7 +439,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: This is the third sentence
+  m_Text: Mordred can become king so easily by defeating his father with the trust
+    of the round table. Little by little Mordred convinced some of the powerhouses
+    of the round table. Such as Lancelot, one of the most skillful knights and good
+    friend of Arthur. It was time to take on this father and be king. The day has
+    come .....
 --- !u!222 &1606478515
 CanvasRenderer:
   m_ObjectHideFlags: 0
