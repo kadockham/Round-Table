@@ -6883,7 +6883,7 @@ ScriptedImporter:
     spriteName: 
     isGroup: 0
     parentIndex: -1
-    spriteID: ab1785a582be3004d8c31846f0da17ca
+    spriteID: 00000000000000000000000000000000
     layerID: 432
     mosaicPosition: {x: 0, y: 0}
     flatten: 0
@@ -6892,8 +6892,8 @@ ScriptedImporter:
   sharedRigPSDLayers: []
   pSDLayerImportSetting: []
   generateGOHierarchy: 0
-  textureAssetName: PlayerTPose Texture
-  prefabAssetName: PlayerTPose Prefab
-  spriteLibAssetName: PlayerTPose Sprite Lib
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
   skeletonAssetName: 
   secondarySpriteTextures: []

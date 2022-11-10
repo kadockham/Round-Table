@@ -386,8 +386,8 @@ ScriptedImporter:
       x: 813
       y: 462
       width: 166
-      height: 93
-    spriteID: 282014a5147738449b2914aa61fd4a70
+      height: 94
+    spriteID: 504c43788e3544971a20313c2ce01a4d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -543,7 +543,7 @@ ScriptedImporter:
     spriteName: 
     isGroup: 0
     parentIndex: -1
-    spriteID: 858aa9cf54a67724fabe2e1dde76073f
+    spriteID: 00000000000000000000000000000000
     layerID: 14
     mosaicPosition: {x: 0, y: 0}
     flatten: 0
@@ -553,7 +553,7 @@ ScriptedImporter:
     spriteName: PauseOverlay
     isGroup: 0
     parentIndex: -1
-    spriteID: 282014a5147738449b2914aa61fd4a70
+    spriteID: 504c43788e3544971a20313c2ce01a4d
     layerID: 167
     mosaicPosition: {x: 813, y: 462}
     flatten: 0
@@ -562,8 +562,8 @@ ScriptedImporter:
   sharedRigPSDLayers: []
   pSDLayerImportSetting: []
   generateGOHierarchy: 0
-  textureAssetName: UI Texture
-  prefabAssetName: UI Prefab
-  spriteLibAssetName: UI Sprite Lib
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
   skeletonAssetName: 
   secondarySpriteTextures: []
