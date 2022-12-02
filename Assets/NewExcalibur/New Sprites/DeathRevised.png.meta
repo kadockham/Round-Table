@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 53af9a61256f0d54a9b8e82ad0b0d2d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6767248830632761295
+    second: DeathRevised_0
+  - first:
+      213: 3509408631450912037
+    second: DeathRevised_1
+  - first:
+      213: 4008856521617906418
+    second: DeathRevised_2
+  - first:
+      213: 7689635501339241563
+    second: DeathRevised_3
+  - first:
+      213: 811353223731753053
+    second: DeathRevised_4
+  - first:
+      213: 881484027691324397
+    second: DeathRevised_5
+  - first:
+      213: -7891006249825887183
+    second: DeathRevised_6
+  - first:
+      213: 1016490163132709684
+    second: DeathRevised_7
+  - first:
+      213: -3490281014100767926
+    second: DeathRevised_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeathRevised_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 251
+        width: 49
+        height: 86
+      alignment: 9
+      pivot: {x: 0.57474333, y: 0.627759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc71b8005f81aed50800000000000000
+      internalID: 6767248830632761295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRevised_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 250
+        width: 46
+        height: 87
+      alignment: 9
+      pivot: {x: 0.526539, y: 0.6403226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52542518e8ce3b030800000000000000
+      internalID: 3509408631450912037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRevised_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 254
+        width: 58
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5210487, y: 0.60173434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa1b8e34c152a730800000000000000
+      internalID: 4008856521617906418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRevised_3
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 256
+        width: 60
+        height: 82
+      alignment: 9
+      pivot: {x: 0.58138734, y: 0.61910343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cee8d3fb217ba60800000000000000
+      internalID: 7689635501339241563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRevised_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 255
+        width: 79
+        height: 80
+      alignment: 9
+      pivot: {x: 0.68106115, y: 0.63369596}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5036ef4571824b00800000000000000
+      internalID: 811353223731753053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRevised_5
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 255
+        width: 63
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6206103, y: 0.5728829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3d8b98d09ab3c00800000000000000
+      internalID: 881484027691324397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRevised_6
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 255
+        width: 73
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5958486, y: 0.66299146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c9db6cf938d7290800000000000000
+      internalID: -7891006249825887183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRevised_7
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 256
+        width: 81
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5490376, y: 0.6426927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b3433fa6c4b1e00800000000000000
+      internalID: 1016490163132709684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathRevised_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 259
+        width: 84
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58031666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bcb34f8e7009fc0800000000000000
+      internalID: -3490281014100767926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
