@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/LogoIntro.unity
     guid: ae98fb7f6f10c4279b95db8643600d08
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Menu.unity
     guid: 78d194e4a6a6e4b7b8c3849f8cce7a99
   - enabled: 1
@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DemoLevel.unity
     guid: 53953173316aa0a43a3912f541d85d08
+  - enabled: 1
+    path: Assets/Scenes/Kenny's Scene.unity
+    guid: aa794067340ed470dabf145ed7264c0b
   m_configObjects: {}
