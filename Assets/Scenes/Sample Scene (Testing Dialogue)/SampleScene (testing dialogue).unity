@@ -661,7 +661,7 @@ PrefabInstance:
     - target: {fileID: 3763855001744849113, guid: 5689fc12d2260514db2f8c77d93118e6,
         type: 3}
       propertyPath: dialogues.Array.data[0]
-      value: This is a test. Lets see if this will rap. I hope that it works still
+      value: This is a test. Lets see if this will wrap. I hope that it works still
         But I guess we'll just find out
       objectReference: {fileID: 0}
     - target: {fileID: 3763855001744849113, guid: 5689fc12d2260514db2f8c77d93118e6,
