@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/NewExcalibur.meta
 guid: 61df6bdd49992aa49a4d033ba33fcb54
+========
+guid: bbcbb57ddce7b64499502af3d165c7f2
+>>>>>>>> Test:Assets/Art/Classic Legacy Pack - Village.meta
+=======
+guid: f6f5b4b7f261ca146be74c4a38465fe1
+>>>>>>> Test
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

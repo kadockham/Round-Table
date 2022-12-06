@@ -543,7 +543,11 @@ ScriptedImporter:
     spriteName: 
     isGroup: 0
     parentIndex: -1
+<<<<<<< HEAD
     spriteID: 9b49423312d599043b5c63071f72d783
+=======
+    spriteID: f51c7f8d58ac33a43809932dda0625f2
+>>>>>>> Test
     layerID: 14
     mosaicPosition: {x: 0, y: 0}
     flatten: 0
