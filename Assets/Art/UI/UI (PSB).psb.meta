@@ -387,7 +387,7 @@ ScriptedImporter:
       y: 462
       width: 166
       height: 94
-    spriteID: 504c43788e3544971a20313c2ce01a4d
+    spriteID: 01b97c2d8df15544bbe9cc7299613612
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -543,11 +543,7 @@ ScriptedImporter:
     spriteName: 
     isGroup: 0
     parentIndex: -1
-<<<<<<< HEAD
-    spriteID: 9b49423312d599043b5c63071f72d783
-=======
-    spriteID: f51c7f8d58ac33a43809932dda0625f2
->>>>>>> Test
+    spriteID: a07861fbcc2d6f0488e0fc0e7e667f25
     layerID: 14
     mosaicPosition: {x: 0, y: 0}
     flatten: 0
@@ -557,7 +553,7 @@ ScriptedImporter:
     spriteName: PauseOverlay
     isGroup: 0
     parentIndex: -1
-    spriteID: 504c43788e3544971a20313c2ce01a4d
+    spriteID: 01b97c2d8df15544bbe9cc7299613612
     layerID: 167
     mosaicPosition: {x: 813, y: 462}
     flatten: 0
