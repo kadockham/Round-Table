@@ -313,8 +313,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 105.5, y: -665.78}
-  m_SizeDelta: {x: 1040.06, y: 1977.67}
+  m_AnchoredPosition: {x: 105.5, y: -961}
+  m_SizeDelta: {x: 1040.06, y: 2568.11}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &725843535
 MonoBehaviour:
@@ -400,7 +400,13 @@ MonoBehaviour:
 
     https://pixabay.com/music/
 
-    main-title-knights-of-camelot-8038/'
+    main-title-knights-of-camelot-8038/
+
+
+    Free
+    Music
+
+    Incompetech.com/music/royalty-free/music.html'
 --- !u!222 &725843536
 CanvasRenderer:
   m_ObjectHideFlags: 0
