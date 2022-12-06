@@ -413,7 +413,7 @@ MonoBehaviour:
   launchRecovery: 3
   maxSpeed: 8
   jumpPower: 17
-  ammo: 0
+  ammo: 0.09
   coins: 0
   health: 5
   maxHealth: 5
@@ -504,7 +504,7 @@ SpriteRenderer:
   m_SortingLayerID: -525760289
   m_SortingLayer: -1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 4769638531270534136, guid: 54ec4f0cdd3de40498e6a8dc361b8953,
+  m_Sprite: {fileID: 4723107735738678597, guid: 0e3502a80399d164ea01f1868f65acbf,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

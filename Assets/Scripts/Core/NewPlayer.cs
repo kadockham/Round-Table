@@ -118,7 +118,7 @@ public class NewPlayer : PhysicsObject
 
             if (Input.GetButtonDown("Jump") && animator.GetBool("grounded") == true && !jumping)
             {
-                Debug.Log("Jumping");
+
                 animator.SetBool("pounded", false);
                 Jump(1f);
             }
