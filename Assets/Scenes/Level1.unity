@@ -27168,6 +27168,11 @@ PrefabInstance:
       propertyPath: m_Offset.y
       value: -3.2690687
       objectReference: {fileID: 0}
+    - target: {fileID: 114754119181741738, guid: c345d020d8c8e45249365b7be6b37765,
+        type: 3}
+      propertyPath: requiredCoins
+      value: 40
+      objectReference: {fileID: 0}
     - target: {fileID: 212411343089497930, guid: c345d020d8c8e45249365b7be6b37765,
         type: 3}
       propertyPath: m_Sprite
@@ -27404,7 +27409,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4569125025086690, guid: 927e473a2ba484d75b382fc1faaf0eeb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.7664995
+      value: 1.5294998
       objectReference: {fileID: 0}
     - target: {fileID: 4569125025086690, guid: 927e473a2ba484d75b382fc1faaf0eeb, type: 3}
       propertyPath: m_LocalPosition.z
