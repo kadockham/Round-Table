@@ -40,7 +40,7 @@ public class EnemyBase : MonoBehaviour
     public void GetHurt(int launchDirection, int hitPower)
     {
         //Hit the enemy, causing a damage effect, and decreasing health. Allows for requiring a downward pound attack
-        if ((GetComponent<Walker>() != null || GetComponent<Flyer>() != null) && !recoveryCounter.recovering)
+        if ((GetComponent<Walker>() != null || GetComponent<Bandit>() != null || GetComponent<Flyer>() != null) && !recoveryCounter.recovering)
         {
             if (!requirePoundAttack || (requirePoundAttack && NewPlayer.Instance.pounding))
             {
@@ -69,6 +69,15 @@ public class EnemyBase : MonoBehaviour
                     walker.velocity.y = walker.hurtLaunchPower;
                     walker.directionSmooth = launchDirection;
                     walker.direction = walker.directionSmooth;
+                }
+
+                if (GetComponent<MeleeEnemy>() != null)
+                {
+                    MeleeEnemy meleeEnemy = GetComponent<MeleeEnemy>();
+                    meleeEnemy.launch = launchDirection * meleeEnemy.hurtLaunchPower / 5;
+                    meleeEnemy.velocity.y = meleeEnemy.hurtLaunchPower;
+                    meleeEnemy.directionSmooth = launchDirection;
+                    meleeEnemy.direction = meleeEnemy.directionSmooth;
                 }
 
                 if (GetComponent<Flyer>() != null)
