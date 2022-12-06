@@ -46,7 +46,7 @@ public class EnemyBase : MonoBehaviour
             {
                 NewPlayer.Instance.cameraEffects.Shake(100, 1);
                 health -= hitPower;
-                animator.SetTrigger("hurt");
+                //animator.SetTrigger("hurt");
 
                 audioSource.pitch = (1);
                 audioSource.PlayOneShot(hitSound);
