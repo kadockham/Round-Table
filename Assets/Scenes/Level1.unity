@@ -2652,7 +2652,7 @@ Transform:
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 4220818310076082}
-  m_RootOrder: 122
+  m_RootOrder: 123
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &247897922
 SpriteRenderer:
@@ -6602,7 +6602,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4220818310076082}
-  m_RootOrder: 107
+  m_RootOrder: 112
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &622928223
 SpriteRenderer:
@@ -12078,15 +12078,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4365401188192310, guid: d720babae8bf94a6895e7c35f4d553a7, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.1875
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4365401188192310, guid: d720babae8bf94a6895e7c35f4d553a7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 98.100006
+      value: 124.01
       objectReference: {fileID: 0}
     - target: {fileID: 4365401188192310, guid: d720babae8bf94a6895e7c35f4d553a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -19.48
+      value: -3.93
       objectReference: {fileID: 0}
     - target: {fileID: 4365401188192310, guid: d720babae8bf94a6895e7c35f4d553a7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -12111,27 +12111,27 @@ PrefabInstance:
     - target: {fileID: 61527661687826610, guid: d720babae8bf94a6895e7c35f4d553a7,
         type: 3}
       propertyPath: m_Size.x
-      value: 169.4
+      value: 2.1060257
       objectReference: {fileID: 0}
     - target: {fileID: 61527661687826610, guid: d720babae8bf94a6895e7c35f4d553a7,
         type: 3}
       propertyPath: m_Size.y
-      value: 4.0508366
+      value: 3.3347366
       objectReference: {fileID: 0}
     - target: {fileID: 61527661687826610, guid: d720babae8bf94a6895e7c35f4d553a7,
         type: 3}
       propertyPath: m_Offset.x
-      value: 0.17514038
+      value: 1.2727547
       objectReference: {fileID: 0}
     - target: {fileID: 61527661687826610, guid: d720babae8bf94a6895e7c35f4d553a7,
         type: 3}
       propertyPath: m_Offset.y
-      value: 0.5254183
+      value: 1.0789567
       objectReference: {fileID: 0}
     - target: {fileID: 114326527850957266, guid: d720babae8bf94a6895e7c35f4d553a7,
         type: 3}
       propertyPath: loadSceneName
-      value: Menu
+      value: Level2
       objectReference: {fileID: 0}
     - target: {fileID: 114326527850957266, guid: d720babae8bf94a6895e7c35f4d553a7,
         type: 3}
