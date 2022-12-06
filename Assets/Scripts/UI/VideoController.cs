@@ -14,11 +14,17 @@ public class VideoController : MonoBehaviour
     [SerializeField] GameObject activateObjectAfterPlaying;
     public long playerCurrentFrame;
     public long playerFrameCount;
+    private bool skipVideo = false;
 
     void Start()
     {
         //Begin invoke!
         InvokeRepeating("CheckOver", .1f, .1f);
+    }
+
+    public void Skip()
+    {
+        skipVideo = true;
     }
 
     private void CheckOver()
@@ -28,7 +34,7 @@ public class VideoController : MonoBehaviour
 
         if (playerCurrentFrame != 0 && playerFrameCount != 0)
         {
-            if (playerCurrentFrame >= playerFrameCount - 1)
+            if (playerCurrentFrame >= playerFrameCount - 1 || skipVideo)
             {
                 if (activateObjectAfterPlaying != null)
                 {
@@ -41,7 +47,7 @@ public class VideoController : MonoBehaviour
                 }
 
                 //Cancel Invoke since video is no longer playing
-                CancelInvoke("checkOver");
+                CancelInvoke("CheckOver");
             }
         }
     }
