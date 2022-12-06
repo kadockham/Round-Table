@@ -118,6 +118,7 @@ public class NewPlayer : PhysicsObject
 
             if (Input.GetButtonDown("Jump") && animator.GetBool("grounded") == true && !jumping)
             {
+                Debug.Log("Jumping");
                 animator.SetBool("pounded", false);
                 Jump(1f);
             }
@@ -157,7 +158,7 @@ public class NewPlayer : PhysicsObject
             //Allow the player to jump even if they have just fallen off an edge ("fall forgiveness")
             if (!grounded)
             {
-                if (fallForgivenessCounter < fallForgiveness && !jumping)
+                if (fallForgivenessCounter < fallForgiveness && !jumping && velocity.y <= 0)
                 {
                     fallForgivenessCounter += Time.deltaTime;
                 }
@@ -170,6 +171,7 @@ public class NewPlayer : PhysicsObject
             {
                 fallForgivenessCounter = 0;
                 animator.SetBool("grounded", true);
+                jumping = false;
             }
 
             //Set each animator float, bool, and trigger to it knows which animation to fire
