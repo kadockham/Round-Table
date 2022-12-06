@@ -10726,11 +10726,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4365401188192310, guid: d720babae8bf94a6895e7c35f4d553a7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 98.100006
+      value: 124.83
       objectReference: {fileID: 0}
     - target: {fileID: 4365401188192310, guid: d720babae8bf94a6895e7c35f4d553a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -19.48
+      value: -3.92
       objectReference: {fileID: 0}
     - target: {fileID: 4365401188192310, guid: d720babae8bf94a6895e7c35f4d553a7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -10775,7 +10775,7 @@ PrefabInstance:
     - target: {fileID: 114326527850957266, guid: d720babae8bf94a6895e7c35f4d553a7,
         type: 3}
       propertyPath: loadSceneName
-      value: Menu
+      value: Credits
       objectReference: {fileID: 0}
     - target: {fileID: 114326527850957266, guid: d720babae8bf94a6895e7c35f4d553a7,
         type: 3}
