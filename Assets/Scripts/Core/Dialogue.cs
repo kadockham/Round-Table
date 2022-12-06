@@ -14,7 +14,8 @@ public class Dialogue : MonoBehaviour
         //Door
         dialogue.Add("LockedDoorA", new string[] {
             "A large door...",
-            "Looks like it has a key hole!"
+            "Looks like it has a key hole!",
+            "And A Toll of 40 coins is required"
         });
 
 
