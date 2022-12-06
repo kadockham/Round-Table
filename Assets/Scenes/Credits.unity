@@ -313,8 +313,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -21, y: 175}
-  m_SizeDelta: {x: 787.0598, y: 296.1181}
+  m_AnchoredPosition: {x: 105.5, y: -665.78}
+  m_SizeDelta: {x: 1040.06, y: 1977.67}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &725843535
 MonoBehaviour:
@@ -351,8 +351,50 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Project Manager:
 
+    Programming:
 
-'
+    Scripting:
+
+    Programming/Art:
+
+    Programming:
+
+
+    Free
+    Assets:
+
+
+    Super Simple 2DKit
+
+    Thomas Brush
+
+    fulltimegamedev.com
+
+
+    Medieval
+    King Pack 2:
+
+    Luiz Melo
+
+    luizmelo.itchi.io
+
+
+    Bandits - Pixel Art
+
+    Sven
+    Thole
+
+    https://assetstore.unity.com/packages/2d/characters/bandits-pixel-art-104130
+
+
+    Knights
+    of Camelot - music
+
+    Tommy Mutiu
+
+    https://pixabay.com/music/
+
+    main-title-knights-of-camelot-8038/'
 --- !u!222 &725843536
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -732,8 +774,8 @@ Canvas:
   m_GameObject: {fileID: 1482845401}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_RenderMode: 1
+  m_Camera: {fileID: 1130865879}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -860,8 +902,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 458, y: 175}
-  m_SizeDelta: {x: 787.0598, y: 296.1181}
+  m_AnchoredPosition: {x: 458, y: -170.93}
+  m_SizeDelta: {x: 787.06, y: 987.98}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1824027929
 MonoBehaviour:
@@ -896,7 +938,22 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Someone
+  m_Text: 'Kenneth Dockham
+
+    Daniel Garcia
+
+    Fernando Perez
+
+    Anthony Savory
+
+    David
+    Brown
+
+
+
+
+
+'
 --- !u!222 &1824027930
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -942,8 +999,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 808, y: -452}
-  m_SizeDelta: {x: 272.9045, y: 144.0999}
+  m_AnchoredPosition: {x: 834, y: -422}
+  m_SizeDelta: {x: 175, y: 175}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2009497808
 MonoBehaviour:
@@ -964,7 +1021,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 2
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -974,9 +1031,10 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_SelectedSprite: {fileID: 0}
+    m_HighlightedSprite: {fileID: 21300004, guid: ae3918a914038694d852d0bb81f62473,
+      type: 3}
+    m_PressedSprite: {fileID: 21300004, guid: ae3918a914038694d852d0bb81f62473, type: 3}
+    m_SelectedSprite: {fileID: 21300004, guid: ae3918a914038694d852d0bb81f62473, type: 3}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
@@ -1021,7 +1079,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300004, guid: ae3918a914038694d852d0bb81f62473, type: 3}
+  m_Sprite: {fileID: 21300002, guid: ae3918a914038694d852d0bb81f62473, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
